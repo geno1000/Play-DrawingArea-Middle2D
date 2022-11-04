@@ -3,6 +3,8 @@
 ### 2022-11-04 / 명덕애니포스만화학원 (취미CG반)
 ![image](https://user-images.githubusercontent.com/77244047/199981759-45a715bc-4814-45ec-b6c7-684821807ca7.png)
 
+작업시간 : 총 360분
+
 작업목록
 - 레이어 별 색상 쌓기 > Rock 파트 (작업중)
 
@@ -17,6 +19,8 @@
 
 ### 2022-11-02 / 명덕애니포스만화학원 (취미CG반)
 ![Pasted Graphic](https://user-images.githubusercontent.com/77244047/199505140-dd744d0f-3456-4811-9729-5058ca594e87.png)
+
+작업시간 : 총 180분
 
 작업목록
 - 러프선 작업 & 테두리 작업
