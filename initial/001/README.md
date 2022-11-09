@@ -3,15 +3,32 @@
 ```
 - 타입 : Copy
 - 참조 : https://www.pinterest.co.kr/pin/883620389368162604
-- 주제키워드 : 돌, 나무
-- 작업시간 : 360분
+- 주제키워드 : 표지판
+- 작업시간 : 540분
 ```
+
+### 2022-11-09
+![image](https://user-images.githubusercontent.com/77244047/200843824-667a85cd-4ff3-417e-85ca-a7a881fdc796.png)
+![image](https://user-images.githubusercontent.com/77244047/200844448-a52c9012-624b-4cc9-b878-8263e580d213.png)
+
+작업목록
+- 초벌작업 > Rock 파트 (작업중)
+- 초벌작업 > Tree 파트 (작업중)
+
+작업환경 설정
+- 인터페이스 레이아웃 정리 : 워크스페이스
+- ClipStudio 자료 : 자료정리
+- ClipStudio 소재 : 워크스페이스
+
+기능학습
+- 혼합 색 브러시 사용법 = 초벌 시 주로 사용
+
 
 ### 2022-11-04
 ![image](https://user-images.githubusercontent.com/77244047/199981759-45a715bc-4814-45ec-b6c7-684821807ca7.png)
 
 작업목록
-- 레이어 별 색상 쌓기 > Rock 파트 (작업중)
+- 초벌작업 > Rock 파트 (작업중)
 
 기능학습
 - 레이어 이동 단축키
