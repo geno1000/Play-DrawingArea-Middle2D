@@ -9,7 +9,7 @@
 
 ### 2022-11-09
 ![image](https://user-images.githubusercontent.com/77244047/200843824-667a85cd-4ff3-417e-85ca-a7a881fdc796.png)
-![image](https://user-images.githubusercontent.com/77244047/200844448-a52c9012-624b-4cc9-b878-8263e580d213.png)
+![image](https://user-images.githubusercontent.com/77244047/200845773-e5bcf931-c9e2-4777-aa4b-77743e6c074b.png)
 
 작업목록
 - 초벌작업 > Rock 파트 (작업중)
