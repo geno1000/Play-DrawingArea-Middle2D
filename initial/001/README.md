@@ -8,7 +8,7 @@
 - 훈련분류 : 수업 (애니포스 명덕점 CG 취미반)
 ```
 
-### 2022-11-09
+## 2022-11-09
 ![image](https://user-images.githubusercontent.com/77244047/200846145-c255fe20-7799-4e92-8e69-132c53b36d5d.png)
 
 작업목록
@@ -23,7 +23,7 @@
 - 혼합 색 브러시 사용법 = 채색초벌 시 주로 사용
 
 
-### 2022-11-04
+## 2022-11-04
 ![image](https://user-images.githubusercontent.com/77244047/199981759-45a715bc-4814-45ec-b6c7-684821807ca7.png)
 
 작업목록
@@ -38,7 +38,7 @@
 과제
 - 레이어 폴더 그룹화 방법 정의
 
-### 2022-11-02
+## 2022-11-02
 ![Pasted Graphic](https://user-images.githubusercontent.com/77244047/199505140-dd744d0f-3456-4811-9729-5058ca594e87.png)
 
 작업목록
