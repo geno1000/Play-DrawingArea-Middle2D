@@ -9,7 +9,7 @@
 ```
 
 ## 2022-11-11
-![image](https://user-images.githubusercontent.com/77244047/201349608-551c5b0d-5cc3-4a74-816d-38797d7b1e1c.png)
+![image](https://user-images.githubusercontent.com/77244047/201350563-9325e6d3-4023-44ad-890d-fa55e3734fd6.png)
 
 작업목록
 - 초벌작업 : 완료
