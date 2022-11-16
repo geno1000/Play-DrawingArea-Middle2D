@@ -4,13 +4,17 @@ Media-Playground-Drawing
 
 # 훈련
 
-## :scroll: 면화(Painter:Pain)
-### 01. 인공물(Prop)
+## :scroll: 면화(Painter)
+### 01. 인공물(Property)
 - [표지판(Sign)](initial/README.md)
 02. 포털(Portal)
 - 작성중
 
-### 01. 케릭터(Character:Char)
+### 02. 케릭터(Character)
+- 심플 2등신(Simple2Body)
+02. 포털(Portal)
+- 작성중
+
 ### 면화 : Character(Char)
   - 
 - 면화 : Background(Back)
