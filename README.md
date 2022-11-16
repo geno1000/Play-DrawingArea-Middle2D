@@ -9,10 +9,12 @@ Media-Playground-Drawing
 ```
 
 ## 01. 인공물(Property)
+자연에서 사람이 만들어놓은 물체나 건물등을 의미
 - [표지판(Sign)](Paint-Prop-Sign/README.md)
 - 포털(Portal)
 
 ## 02. 케릭터(Character)
+사람, 동물과 같이 실존이거나 실존과 유사한 생명체를 의미한다
 - 심플 페이스(SimpleFace)
 - 심플 체스트(SimpleChest)
 - 심플 2등신(Simple2Body)
@@ -35,10 +37,16 @@ Media-Playground-Drawing
 - 리얼 8등신(Simple8Body)
 
 ## 03. 배경(Background)
-- 작성중
+드로잉을 이용한 배경작업을 말한다
+- 구름
 
 ## 04. 환경(Environment)
+모델링을 이용한 배경작업이 포함된 배경을 말한다
 - 작성중
+
+## 05. 효과(Effect)
+드로잉을 이용한 배경작업을 말한다
+- 라이트닝
 
 # :pencil2: 선화(Line) 훈련
 선의 구역이 중심이 되는 드로잉으로 개인적으로 라인(Line)으로 정의한다
