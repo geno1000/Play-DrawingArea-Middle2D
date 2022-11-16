@@ -57,13 +57,13 @@ S/M/L, 심플/리얼 등 다양한 상황에 따른 몬스터를 의미
 케릭터의 포즈나 결과물의 최종 구도를 말한다
 > #그림자구도, #대결구도
 
-## 06. 배경(Background)
+## :card_index_dividers: 배경(Background)
 드로잉을 이용한 배경작업을 말한다
 - 구름
 - 비
 - 태양
 
-## 07. 환경(Environment)
+## :card_index_dividers: 환경(Environment)
 모델링을 이용한 배경작업이 포함된 배경을 말한다
 - 작성중
 
