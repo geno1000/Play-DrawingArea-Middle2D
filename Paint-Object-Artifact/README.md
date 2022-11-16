@@ -1,7 +1,7 @@
-[메인으로 돌아가기](/README.md)
 ```
 Paint > Object > Artifact
 ```
+[메인으로 돌아가기](/README.md)
 
 # 인공물 훈련
 
