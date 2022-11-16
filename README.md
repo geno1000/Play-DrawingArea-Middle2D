@@ -10,7 +10,7 @@ Media-Playground-Drawing
 - 포털(Portal)
 - 작성중
 
-### 03. 케릭터(Character)
+### 02. 케릭터(Character)
 - 심플 2등신(Simple2Body)
 - 심플 3등신(Simple3Body)
 - 심플 4등신(Simple4Body)
@@ -28,9 +28,7 @@ Media-Playground-Drawing
 - 리얼 7등신(Simple7Body)
 - 리얼 8등신(Simple8Body)
 
-### 면화 : Character(Char)
-  - 
-- 면화 : Background(Back)
+### 03. 면화 : Background(Back)
 - 환경 : Environment(Envr)
 
 ### [001 : 표지판](initial/001/README.md)
