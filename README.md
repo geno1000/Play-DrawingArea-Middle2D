@@ -30,10 +30,6 @@ Media-Playground-Drawing
 제품의 애셋 중 버튼으로 사용할 수 있는 것을 의미
 > #기본카드, #특수카드
 
-## :card_index_dividers: 장비(Equipment)
-케릭터에 부착된 무기와 장비를 말한다
-> #청바지, #치마, #무기, #플레이트
-
 ## :card_index_dividers: 케릭터(Character)
 사람, 동물과 같이 실존이거나 실존과 유사한 생명체를 의미
 
@@ -48,6 +44,10 @@ S/M/L, 심플/리얼 등 다양한 상황에 따른 동물을 의미
 ### 03. 몬스터(Monster)
 S/M/L, 심플/리얼 등 다양한 상황에 따른 몬스터를 의미
 > #오크, #골램, #엘프
+
+## :card_index_dividers: 장비(Equipment)
+케릭터에 부착된 무기와 장비를 말한다
+> #청바지, #치마, #무기, #플레이트
 
 ## :card_index_dividers: 효과(Effect)
 케릭터와 물체에 부여된 빛과 액성의 효과를 말한다
