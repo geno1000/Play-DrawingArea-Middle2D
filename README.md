@@ -40,7 +40,7 @@ Media-Playground-Drawing
 ## 04. 환경(Environment)
 - 작성중
 
-# :pencil2: 선화(Line) 
+# :pencil2: 선화(Line) 훈련
 선의 구역이 중심이 되는 드로잉으로 개인적으로 라인(Line)으로 정의한다
 ```text
 활용 : #만화일러스트, #만화설정, #애니메이션
