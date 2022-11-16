@@ -3,6 +3,8 @@ Media-Playground-Drawing
 드로잉과 관련된 개인적인 훈련과 프로젝트의 모음 
 
 # :pencil2: 면화(Paint)
+선이없는 면중심의 그림을 말하며, 개인적으로 페인트(Paint)라고 정의한다.
+
 ## 01. 인공물(Property)
 - [표지판(Sign)](Paint/README.md)
 - 포털(Portal)
