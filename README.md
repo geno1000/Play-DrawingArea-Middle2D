@@ -4,6 +4,9 @@ Media-Playground-Drawing
 
 # :pencil2: 면화(Paint)
 선이없는 면중심의 그림을 말하며, 개인적으로 페인트(Paint)라고 정의한다.
+```text
+활용 : #게임일러스트, #게임설정, #모델링표면
+```
 
 ## 01. 인공물(Property)
 - [표지판(Sign)](Paint/README.md)
