@@ -35,6 +35,4 @@ Media-Playground-Drawing
 ## 04. 환경(Environment)
 - 작성중
 
-## [001 : 표지판](initial/001/README.md)
-
 # :pencil2: 선화(Line)
