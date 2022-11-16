@@ -14,7 +14,8 @@ Media-Playground-Drawing
 > #표지판(Sign), #포털(Portal)
 
 ### 02. 자연물(Natural)
-자연에 자연적으로 만들어진 물질을 의미한다
+자연에 자연적으로 만들어진 물질을 의미
+> #나무토막, 덩쿨, 숲풀
 
 ## :card_index_dividers: 애셋(Asset)
 ### 01. 아이템(Item)
