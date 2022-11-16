@@ -1,6 +1,8 @@
-# Media-Playground-Drawing
+Media-Playground-Drawing
+===
+드로잉과 관련된 훈련과 프로젝트의 모음입니다
 
-## 훈련
+# 훈련
 
 ### :scroll: 면화(Plane)
   - 인공물(Prop)
