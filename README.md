@@ -9,7 +9,7 @@ Media-Playground-Drawing
 ```
 
 ## 01. 인공물(Property)
-- [표지판(Sign)](Paint/Prop/Sign/README.md)
+- [표지판(Sign)](Paint-Prop-Sign/README.md)
 - 포털(Portal)
 
 ## 02. 케릭터(Character)
