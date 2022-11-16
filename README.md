@@ -4,7 +4,7 @@ Media-Playground-Drawing
 
 # 훈련
 
-### :scroll: 면화(Plane)
+## :scroll: 면화(Plane)
   - 인공물(Prop)
     > [표지판(Sign)](initial/README.md)
   - 포털(Portal)
