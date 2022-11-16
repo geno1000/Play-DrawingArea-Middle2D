@@ -9,10 +9,9 @@ Media-Playground-Drawing
 ```
 
 ## :card_index_dividers: 공간물(Object)
-### 01. 인공물(Artifact)
+### 01. [인공물(Artifact)](Paint-Prop-Sign/README.md)
 자연에서 사람이 만들어놓은 물체나 건물등을 의미
-- [표지판(Sign)](Paint-Prop-Sign/README.md)
-- 포털(Portal)
+# 표지판(Sign), # 포털(Portal)
 
 ### 02. 자연물(Natural)
 자연에 자연적으로 만들어진 물질을 의미한다
