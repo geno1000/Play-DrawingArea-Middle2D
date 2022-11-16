@@ -28,7 +28,7 @@ Media-Playground-Drawing
 - 리얼 7등신(Simple7Body)
 - 리얼 8등신(Simple8Body)
 
-### 03. 면화 : Background(Back)
-- 환경 : Environment(Envr)
+### 03. 배경(Background)
+### 04. 환경(Environment)
 
 ### [001 : 표지판](initial/001/README.md)
