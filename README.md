@@ -2,9 +2,10 @@
 
 ## 훈련
 
-### 면화 : Property(Prop)
-  - [표지판(Sign)](initial/README.md)
+### 면화 : Plane(Line)
+  - 인공물(Prop)
   - 포털(Portal)
+    - [표지판(Sign)](initial/README.md)
 - 면화 : Character(Char)
   - 
 - 면화 : Background(Back)
