@@ -8,23 +8,35 @@ Media-Playground-Drawing
 활용 : #게임일러스트, #게임설정, #게임애니메이션
 ```
 
-## :card_index_dividers: 01. 공간물(Object)
-### 0101. 인공물(Artifact)
+## :card_index_dividers: 공간물(Object)
+### 01. 인공물(Artifact)
 자연에서 사람이 만들어놓은 물체나 건물등을 의미
 - [표지판(Sign)](Paint-Prop-Sign/README.md)
 - 포털(Portal)
 
-### 0102. 자연물(Natural)
+### 02. 자연물(Natural)
 자연에 자연적으로 만들어진 물질을 의미한다
 
-## 02. 애셋(Asset)
-## 0201. 아이템(Item)
+## :card_index_dividers: 애셋(Asset)
+## 01. 아이템(Item)
 제품의 애셋 중 버튼으로 사용할 수 있는 것을 말한다
 - 케릭터 아이템
 - 종이&책 아이템
 - 마법 아이템
 
-## 02. 케릭터(Character)
+## 02. 로고(Logo)
+제품의 애셋 중 버튼으로 사용할 수 있는 것을 말한다
+- 케릭터 아이템
+- 종이&책 아이템
+- 마법 아이템
+
+## 03. 카드(Card)
+제품의 애셋 중 버튼으로 사용할 수 있는 것을 말한다
+- 케릭터 아이템
+- 종이&책 아이템
+- 마법 아이템
+
+## :card_index_dividers: 케릭터(Character)
 사람, 동물과 같이 실존이거나 실존과 유사한 생명체를 의미한다
 - 심플 페이스(SimpleFace)
 - 심플 체스트(SimpleChest)
