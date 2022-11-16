@@ -2,7 +2,7 @@ Media-Playground-Drawing
 ===
 드로잉과 관련된 개인적인 훈련과 프로젝트의 모음 
 
-# :pencil2: 면화(Paint)
+# :pencil2: 면화(Paint) 훈련
 선이없는 면중심의 그림을 말하며, 개인적으로 페인트(Paint)라고 정의한다.
 ```text
 활용 : #게임일러스트, #게임설정, #게임애니메이션
@@ -40,7 +40,7 @@ Media-Playground-Drawing
 ## 04. 환경(Environment)
 - 작성중
 
-# :pencil2: 선화(Line)
+# :pencil2: 선화(Line) 
 선의 구역이 중심이 되는 드로잉으로 개인적으로 라인(Line)으로 정의한다
 ```text
 활용 : #만화일러스트, #만화설정, #애니메이션
