@@ -9,7 +9,7 @@ Media-Playground-Drawing
 ```
 
 ## :card_index_dividers: 공간물(Object)
-### [01. 인공물(Artifact)](Paint-Prop-Sign/README.md)
+### [01. 인공물(Artifact)](Paint-Object-Artifact/README.md)
 자연에서 사람이 만들어놓은 물체나 건물등을 의미
 > #표지판(Sign), #포털(Portal)
 
