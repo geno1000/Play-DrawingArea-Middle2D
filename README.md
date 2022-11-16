@@ -2,7 +2,7 @@
 
 ## 훈련
 
-01. 면화 : Property(Prop)
+### 면화 : Property(Prop)
   - 표지판(Sign)
   - 포털(Portal)
 - 면화 : Character(Char)
