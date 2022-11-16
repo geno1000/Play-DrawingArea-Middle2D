@@ -6,7 +6,6 @@ Media-Playground-Drawing
 ## 01. 인공물(Property)
 - [표지판(Sign)](Paint/README.md)
 - 포털(Portal)
-- 작성중
 
 ## 02. 케릭터(Character)
 - 심플 페이스(SimpleFace)
@@ -31,7 +30,10 @@ Media-Playground-Drawing
 - 리얼 8등신(Simple8Body)
 
 ## 03. 배경(Background)
+- 작성중
+
 ## 04. 환경(Environment)
+- 작성중
 
 ## [001 : 표지판](initial/001/README.md)
 
