@@ -1,4 +1,4 @@
-[돌아가기](/Paint/Prop/Sign/README.md)
+[메인으로 돌아가기](/)
 
 # 표지판(Sign) 훈련
 
