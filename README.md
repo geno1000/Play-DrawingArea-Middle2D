@@ -3,7 +3,7 @@
 ## 훈련
 
 ### 면화 : Property(Prop)
-  - 표지판(Sign)
+  - [표지판(Sign)](initial/README.md)
   - 포털(Portal)
 - 면화 : Character(Char)
   - 
