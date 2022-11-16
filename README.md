@@ -4,7 +4,7 @@
 
 ### 면화(Plane)
   - 인공물(Prop)
-  > [표지판(Sign)](initial/README.md)
+    > [표지판(Sign)](initial/README.md)
   - 포털(Portal)
   
 ### 면화 : Character(Char)
