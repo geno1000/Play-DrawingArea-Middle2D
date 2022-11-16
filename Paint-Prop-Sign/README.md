@@ -2,5 +2,5 @@
 
 # 표지판(Sign) 훈련
 
-- [001. 나무방향과 돌](/Paint/Prop/Sign/001/README.md)
+- [001. 나무방향과 돌](/Paint-Prop-Sign/001/README.md)
 - 작성중
