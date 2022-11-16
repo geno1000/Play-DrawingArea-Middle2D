@@ -2,15 +2,13 @@ Media-Playground-Drawing
 ===
 드로잉과 관련된 개인적인 훈련과 프로젝트의 모음 
 
-# :scroll: 훈련
-
-## :pencil2: 면화(Paint)
-### 01. 인공물(Property)
+# :pencil2: 면화(Paint)
+## 01. 인공물(Property)
 - [표지판(Sign)](Paint/README.md)
 - 포털(Portal)
 - 작성중
 
-### 02. 케릭터(Character)
+## 02. 케릭터(Character)
 - 심플 페이스(SimpleFace)
 - 심플 체스트(SimpleChest)
 - 심플 2등신(Simple2Body)
@@ -32,9 +30,9 @@ Media-Playground-Drawing
 - 리얼 7등신(Simple7Body)
 - 리얼 8등신(Simple8Body)
 
-### 03. 배경(Background)
-### 04. 환경(Environment)
+## 03. 배경(Background)
+## 04. 환경(Environment)
 
-### [001 : 표지판](initial/001/README.md)
+## [001 : 표지판](initial/001/README.md)
 
-## :pencil2: 선화(Line)
+# :pencil2: 선화(Line)
