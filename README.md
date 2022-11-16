@@ -8,7 +8,7 @@ Media-Playground-Drawing
 활용 : #게임일러스트, #게임설정, #게임애니메이션
 ```
 
-## 01. 공간물(Object)
+## :card_index_dividers: 01. 공간물(Object)
 ### 0101. 인공물(Artifact)
 자연에서 사람이 만들어놓은 물체나 건물등을 의미
 - [표지판(Sign)](Paint-Prop-Sign/README.md)
