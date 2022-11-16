@@ -7,11 +7,11 @@ Media-Playground-Drawing
 ## :scroll: 면화(Painter)
 ### 01. 인공물(Property)
 - [표지판(Sign)](initial/README.md)
-02. 포털(Portal)
+### 02. 포털(Portal)
 - 작성중
 
-### 02. 케릭터(Character)
-- 심플 2등신(Simple2Body)
+## 02. 케릭터(Character)
+### 심플 2등신(Simple2Body)
 02. 포털(Portal)
 - 작성중
 
