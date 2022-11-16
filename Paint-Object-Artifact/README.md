@@ -3,7 +3,7 @@ Paint > Object > Artifact
 ```
 [메인으로 돌아가기](/README.md)
 
-# 인공물 훈련
+# 면화 훈련 : 오브젝트 > 인공물 
 
 ## 표지판
 - [001. 나무방향과 돌](/Paint-Object-Artifact/001.md)
