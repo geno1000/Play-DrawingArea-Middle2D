@@ -1,4 +1,4 @@
-Playground-Drawing-Paint
+Playground-Painting-Area
 ===
 선이없는 면중심의 그림을 말하며, 개인적으로 페인트(Paint)라고 정의하고 이를 훈련하는 저장소
 
