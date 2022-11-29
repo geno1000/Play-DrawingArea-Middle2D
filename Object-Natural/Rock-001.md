@@ -1,4 +1,4 @@
-[표지판으로 돌아가기](/Paint-Prop-Sign/README.md)
+[표지판으로 돌아가기](/Object-Natural/README.md)
 
 # 001. 암석 : 암석문과 나무
 
