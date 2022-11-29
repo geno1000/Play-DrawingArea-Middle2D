@@ -6,5 +6,5 @@ Object > Artifact
 # 오브젝트 > 인공물 
 
 ## 표지판
-- [001. 나무방향과 돌](/Artifact/001.md)
+- [001. 나무방향과 돌](/Object-Artifact/001.md)
 - 작성중
