@@ -14,6 +14,7 @@
 ![image](https://user-images.githubusercontent.com/77244047/204543621-2c6be8c0-7a33-43bf-8adc-85266cea87bd.png)
 
 작업목록
+- 자료조사 (완료)
 - 러프작업 (진행) : 배치 및 비율작업
 - 배색작업 (예정)
 - 구역작업 (예정)
