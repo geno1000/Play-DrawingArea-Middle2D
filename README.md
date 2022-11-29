@@ -8,13 +8,14 @@ Playground-Drawing-Area
 ```
 
 # :card_index_dividers: 공간물(Object)
-### [01. 인공물(Artifact)](Paint-Object-Artifact/README.md)
-자연에서 사람이 만들어놓은 물체나 건물등을 의미
-> #표지판(Sign), #포털(Portal)
 
-### 02. 자연물(Natural)
+### [01. 자연물(Natural)](Paint-Object-Natural/README.md)
 자연에 자연적으로 만들어진 물질을 의미
 > #암석, 나무토막, 덩쿨, 숲풀
+
+### [02. 인공물(Artifact)](Paint-Object-Artifact/README.md)
+자연에서 사람이 만들어놓은 물체나 건물등을 의미
+> #표지판(Sign), #포털(Portal)
 
 # :card_index_dividers: 애셋(Asset)
 ### 01. 아이템(Item)
