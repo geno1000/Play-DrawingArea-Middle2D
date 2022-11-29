@@ -1,4 +1,4 @@
-[표지판으로 돌아가기](/Object-Artifact/README.md)
+[돌아가기](/Object-Artifact/README.md)
 
 # 001. 표지판 : 나무방향과 돌
 
