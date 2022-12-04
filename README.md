@@ -1,6 +1,6 @@
-Playground-Drawing-Area
+Playground-Drawing2D-AreaSimple
 ===
-선이없는 면중심의 그림을 말하며, 개인적으로 구역(Area)라고 정의하고 이를 훈련하는 저장소
+플레이그라운드 : 심플한 면중심의 2D 드로잉
 
 ```text
 도구 : #클립스튜디오
