@@ -1,4 +1,4 @@
-Playground-Drawing2D-AreaSimple
+Play-Drawing2D-AreaSimple
 ===
 플레이그라운드 : 심플한 면중심의 2D 드로잉
 
