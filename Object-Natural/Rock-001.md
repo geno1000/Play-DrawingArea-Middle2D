@@ -24,7 +24,7 @@
 - 전사작업(예정)
 
 학습내용
-- 
+- 무
 
 ## 2022-12-06
 ![image](https://user-images.githubusercontent.com/77244047/205934680-0ffcf74c-4b74-4239-be6f-0533a5e3fea0.png)
