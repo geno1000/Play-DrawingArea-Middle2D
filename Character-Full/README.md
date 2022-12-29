@@ -3,6 +3,8 @@ Character > Full
 ```
 [메인으로 돌아가기](/README.md)
 
+# 케릭터 > 
+
 ## :card_index_dividers: 드로잉
 
 ### 1.7 등신 (17)
