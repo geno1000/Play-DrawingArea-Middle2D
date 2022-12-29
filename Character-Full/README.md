@@ -3,7 +3,7 @@ Character > Full
 ```
 [메인으로 돌아가기](/README.md)
 
-# 케릭터 > 
+# 케릭터 > 전신
 
 ## :card_index_dividers: 드로잉
 
