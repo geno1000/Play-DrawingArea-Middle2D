@@ -10,7 +10,7 @@
 - 훈련분류 : 수업 (애니포스 명덕점 CG 취미반)
 ```
 
-## 2022-12-28
+## 2022-12-28 (완료)
 ![image](https://user-images.githubusercontent.com/77244047/209912900-4fc1f8b1-7a9f-4b55-9881-b2f614c803c6.png)
 
 작업목록
