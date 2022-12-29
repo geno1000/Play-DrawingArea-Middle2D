@@ -5,10 +5,10 @@ Object > Artifact
 
 # 오브젝트 > 인공물 
 
-## 드로잉
+## :card_index_dividers: 드로잉
 
 ### 표지판 (Sign)
 - [001. 나무방향과 돌](/Object-Artifact/Sign-001.md)
 - 작성중
 
-## 애니메이팅
+## :card_index_dividers: 애니메이팅
